@@ -7,6 +7,9 @@ body {
 h1 {
     text-align: center;
 }
+h2 {
+    text-align: center;
+}
 p {
     text-align: center;
 }
@@ -23,4 +26,7 @@ ul {
 }
 li {
     margin: 10px;
+}
+img {
+    align-items: center;
 }
