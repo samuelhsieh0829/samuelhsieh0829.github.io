@@ -30,3 +30,8 @@ li {
 img {
     align-items: center;
 }
+.preview {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
